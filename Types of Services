@@ -1,0 +1,5 @@
+So there are three types of service :
+
+1. Node Port
+2. ClusterIP 
+3. LoadBalancer
